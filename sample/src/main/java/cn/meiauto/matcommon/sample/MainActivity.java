@@ -3,6 +3,8 @@ package cn.meiauto.matcommon.sample;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import io.reactivex.Observable;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
