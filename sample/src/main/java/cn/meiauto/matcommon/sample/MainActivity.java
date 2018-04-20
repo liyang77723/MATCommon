@@ -1,9 +1,7 @@
 package cn.meiauto.matcommon.sample;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-import io.reactivex.Observable;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 

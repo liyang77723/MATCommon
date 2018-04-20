@@ -63,7 +63,4 @@ dependencies {
     api 'com.jakewharton.rxbinding2:rxbinding-recyclerview-v7:2.1.1'
     api 'com.jakewharton.rxbinding2:rxbinding-appcompat-v7:2.1.1'
     api 'com.jakewharton.rxbinding2:rxbinding-design:2.1.1'
-
-    //RxBus
-    api 'com.hwangjr.rxbus:rxbus:1.0.6'
 }
